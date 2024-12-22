@@ -11,6 +11,7 @@ However, i have developed to other blockchain
 - Blockchain: HaskKey Chain
 
 ## Demo
+- already finished MVP and can be tested on other testnet
 
 ## Team
 - Martin Yeung
