@@ -8,7 +8,7 @@ However, i have developed to other blockchain
 ## Tech Stack
 - Frontend: React, TailwindCSS
 - AI: Gemini
-- Blockchain: HaskKey Chain
+- Blockchain: HaskKey Chain (expected)
 
 ## Demo
 - already finished MVP and can be tested on other testnet
